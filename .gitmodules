@@ -1,3 +1,4 @@
 [submodule "agent"]
 	path = agent
 	url = git@github.com:wwh0509/agent.git
+	branch = multi_nav
